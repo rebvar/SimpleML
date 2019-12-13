@@ -22,3 +22,5 @@ var/
 # Serverless directories
 .serverless/
 .serverless
+model.pkl
+
